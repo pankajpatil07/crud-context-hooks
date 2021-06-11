@@ -7,6 +7,7 @@ export const Home = () => {
         <div>
             <Heading/>
             <UserList/>
+            <h1>Hello</h1>
         </div>
     )
 }
